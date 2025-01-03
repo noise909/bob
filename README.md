@@ -13,7 +13,7 @@ I am eager to contribute to projects that aim to improve digital security, and I
 - **Operating Systems:** Linux (Kali Linux, Ubuntu), Windows
 
 ## Education
-- **Degree:** [Your Degree] - [University Name], [Year of Graduation]
+- **Degree:** [Bachelor in science ,pabna university science and technology]
 - **Certifications:** [ CompTIA Security+, CEH, ]
 
 ## Projects
